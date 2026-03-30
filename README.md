@@ -256,16 +256,6 @@ const vedant = {
 
 ---
 
-## <div align="center">📊 GitHub Statistics</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vedant21-oss&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vedant21-oss&theme=tokyonight&utcOffset=5.5" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant21-oss&theme=tokyonight" height="180"/>
-</div>
 
 ---
 
@@ -276,14 +266,14 @@ const vedant = {
     <tr>
       <td align="center" width="50%">
         <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" />
-        <h3>🎯 In Progress</h3>
+        <h3> In Progress</h3>
         <p>🔧 Advanced Next.js & Server Components</p>
         <p>🐳 Docker & Kubernetes (DevOps)</p>
         <p>🤖 Deep Learning with PyTorch</p>
       </td>
       <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="60" />
-        <h3>🚀 Upcoming</h3>
+        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60">
+        <h3> Upcoming</h3>
         <p>🏗️ System Design (Intermediate → Advanced)</p>
         <p>☁️ AWS Solutions Architecture</p>
         <p>🌐 Contributing to Major OSS Projects</p>
@@ -309,6 +299,9 @@ const vedant = {
 ---
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <br><br>
+
 
   <img src="https://komarev.com/ghpvc/?username=vedant21-oss&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
@@ -316,6 +309,7 @@ const vedant = {
 
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30" />
   <h3>✨ Thanks for visiting my profile! ✨</h3>
+   
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30" />
 
   <br>
@@ -331,3 +325,12 @@ const vedant = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" />
+
+
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
